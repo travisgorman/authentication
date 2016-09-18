@@ -7,14 +7,21 @@ log out, and then log back in again, you'll love this.
 ![like this](https://s19.postimg.org/q4qo5vkib/logging_in_4_ways.png)
 
 
-with ajax
+### with ajax
 /Users/travisgorman/Dropbox/tiy/lecture-examples/26/app
 
-with backbone `save()` (on the view)
+
+___
+### with backbone `save()` (on the view)
 /Users/travisgorman/Dropbox/tiy/lecture-examples/27/app
 
-with custom methods on `session` model (`login()`, `parse()` `logout()`, `retrieve()`)
+
+___
+### with custom methods on `session` model (`login()`, `parse()` `logout()`, `retrieve()`)
 /Users/travisgorman/Dropbox/tiy/lecture-examples/28/app
 
-with React Components
+
+___
+### with React Components
 /Users/travisgorman/Dropbox/tiy/lecture-examples/39/app
+
